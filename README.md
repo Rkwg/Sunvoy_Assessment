@@ -59,7 +59,9 @@ Once the server is up and running, open your browser and go to:
 [http://localhost:3000](http://localhost:3000)
 
 This will open the project in your local browser.
-
+Login Credentials are same as shared in the assignment
+username: demo@example.org
+password: test
 ---
 
 ##  Reference Video
