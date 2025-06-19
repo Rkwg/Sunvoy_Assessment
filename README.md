@@ -52,18 +52,19 @@ npm run start
 
 ---
 
-##  Step 5: View the Project
+## Step 5: View the Project
 
 Once the server is up and running, open your browser and go to:
 
 [http://localhost:3000](http://localhost:3000)
 
 This will open the project in your local browser.
-Login Credentials are same as shared in the assignment
-username: demo@example.org
-password: test
----
 
+**Login Credentials (as shared in the assignment):**
+- **Username:** `demo@example.org`
+- **Password:** `test`
+
+---
 ##  Reference Video
 
 Need a visual walkthrough? Watch this Loom video for a demonstration:
